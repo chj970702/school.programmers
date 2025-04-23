@@ -1,11 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        Running sol = new Running();
-        String [] players = {"mumu", "soe", "poe", "kai", "mine"};
-        String [] callings = {"kai", "kai", "mine", "mine"};
-        String[] ans = sol.solution(players, callings);
-        for (String k : ans) {
-            System.out.println(k);
-        }
+        DBO sol = new DBO();
+        int result = sol.solution(13, 3, 6);
+        System.out.println(result);
     }
 }
