@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class 모의문제 {
+public class 모의문제1 {
     public String[][] solution(String[] records) {
         // TODO: JAVA 9 이상부터 Map.of 사용 가능
         HashMap<String, Integer> pointRate = new HashMap<>();
