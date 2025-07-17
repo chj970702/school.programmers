@@ -1,3 +1,5 @@
+package LV1;
+
 import java.util.Stack;
 
 public class 햄버거만들기 {

@@ -1,3 +1,5 @@
+package LV1;
+
 class 지폐접기 {
     public static void main(String[] args) {
         지폐접기 sol = new 지폐접기();

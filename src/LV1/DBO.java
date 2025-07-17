@@ -1,3 +1,5 @@
+package LV1;
+
 // 바로성공 ㄷㄷ
 public class DBO {
     public int solution(int n, int w, int num) {

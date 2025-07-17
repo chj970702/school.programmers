@@ -1,4 +1,6 @@
-// 공원 산책
+package LV1;
+
+// LV1.공원 산책
 public class WalkInPark {
 
     private static final int[][] DIRS = {
@@ -40,7 +42,7 @@ public class WalkInPark {
                 ny += dy;
                 nx += dx;
                 
-                // 위치가 공원 넘어가거나, 장애물 만났는지 확인
+                // 위치가 LV1.공원 넘어가거나, 장애물 만났는지 확인
                 if (ny < 0 || ny > park.length - 1 || nx < 0 || nx > park[0].length() -1 || park[ny].charAt(nx) == 'X') {
                     valid = false;
                     break;

@@ -1,3 +1,5 @@
+package LV1;
+
 public class 문자열나누기 {
     public int solution(String s) {
         int answer = 0;

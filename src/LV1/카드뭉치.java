@@ -1,3 +1,5 @@
+package LV1;
+
 import java.util.*;
 
 public class 카드뭉치 {

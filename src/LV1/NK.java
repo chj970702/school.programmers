@@ -1,3 +1,5 @@
+package LV1;
+
 // 이웃한 칸
 public class NK {
     public int solution(String[][] board, int h, int w) {

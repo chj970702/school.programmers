@@ -1,3 +1,5 @@
+package LV1;
+
 public class FWS {
     public int solution(int[] schedules, int[][] timelogs, int startday) {
         int answer = 0;

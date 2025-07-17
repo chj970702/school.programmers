@@ -1,3 +1,5 @@
+package LV1;
+
 public class 크기가작부분문자열 {
     public int solution(String t, String p) {
         int answer = 0;

@@ -1,10 +1,12 @@
+package LV1;
+
 import java.util.Arrays;
 import java.util.Collections;
 
 public class 공원 {
 
     // mats : 돗자리 길이 정수 리스트
-    // park : 공원 자리 배치도 2차원 문자열 리스트
+    // park : LV1.공원 자리 배치도 2차원 문자열 리스트
     // answer : 가능한 가장 큰 돗자리 길이
     public int solution(int[] mats, String[][] park) {
         int answer = -1;

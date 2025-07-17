@@ -1,3 +1,5 @@
+package LV1;
+
 public class 기사단원무기 {
     public int solution(int number, int limit, int power) {
         /** number: 기사단원 수

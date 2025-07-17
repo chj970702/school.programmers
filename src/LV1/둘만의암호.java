@@ -1,3 +1,5 @@
+package LV1;
+
 public class 둘만의암호 {
     public String solution(String s, String skip, int index) {
         String alpha= "abcdefghijklmnopqrstuvwxyz";

@@ -1,3 +1,5 @@
+package LV2;
+
 public class 서버증설횟수 {
     public int solution(int[] players, int m, int k) {
         int answer = 0;
